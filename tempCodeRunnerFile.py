@@ -1,0 +1,1 @@
+all_insights(asset_data, team_data, financial_data)
